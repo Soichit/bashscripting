@@ -1,0 +1,4 @@
+./dir1/hello1.txt
+./dir2/dir2b/subdirectory.txt
+./dir2/lines.txt
+./dir.txt
